@@ -106,9 +106,11 @@ A versatile **IT Professional** bridging the gap between **Software Development*
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinwiliamleo-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinwiliamleo-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinwiliamleo-dev&theme=algolia&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinwiliamleo-dev&theme=algolia&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwiliamleo-dev&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff)
 
 </div>
 
