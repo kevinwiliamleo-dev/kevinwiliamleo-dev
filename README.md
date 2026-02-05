@@ -55,7 +55,7 @@ I bridge the gap between **Software Development** and **IT Infrastructure**. Cur
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinwiliamleo-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff" height="160" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwiliamleo-dev&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff" height="160" />
 </div>
