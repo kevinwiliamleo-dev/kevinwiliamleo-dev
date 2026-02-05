@@ -1,18 +1,13 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Kevin%20William%20Leo&fontSize=50&fontColor=00f2ff&desc=Infrastructure%20Specialist%20%26%20Software%20Developer&descAlignY=65&descAlign=50" width="100%"/>
 
-  <p>
-    <a href="https://kevinwl.my.id" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-kevinwl.my.id-00f2ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white" />
-    </a>
-    <a href="mailto:business@kevinwl.my.id">
-      <img src="https://img.shields.io/badge/Email-business%40kevinwl.my.id-white?style=for-the-badge&logo=mail.ru&logoColor=black" />
-    </a>
-    <a href="https://www.linkedin.com/in/kevin-willyanto-leo-a0620a163/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Kevin_Willyanto_Leo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
+# 👋 Hi, I'm Kevin William Leo
+
+### Infrastructure Specialist & Software Developer
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kevinwl.my.id-00f2ff?style=for-the-badge)](https://kevinwl.my.id)
+[![Email](https://img.shields.io/badge/📧_Email-business@kevinwl.my.id-white?style=for-the-badge)](mailto:business@kevinwl.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Willyanto_Leo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-willyanto-leo-a0620a163/)
+
 </div>
 
 <br/>
@@ -81,9 +76,11 @@ A versatile **IT Professional** bridging the gap between **Software Development*
 
 ---
 
+<div align="center">
+
 ### 🏗️ Featured Projects
 
-<div align="left">
+</div>
 
 **🖥️ Production Homelab**
 - **Proxmox VE** cluster with high-availability configuration
@@ -103,22 +100,16 @@ A versatile **IT Professional** bridging the gap between **Software Development*
 - **Frigate NVR** surveillance system with AI object detection
 - Network monitoring with custom dashboards
 
-</div>
-
 ---
+
+<div align="center">
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinwiliamleo-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwiliamleo-dev&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff" height="170" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=kevinwiliamleo-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9" height="180" alt="GitHub Stats" />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinwiliamleo-dev&theme=algolia&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinwiliamleo-dev&theme=algolia&hide_border=true&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" />
 </div>
 
 ---
@@ -154,22 +145,20 @@ Proven Track Record:
 ---
 
 <div align="center">
-  
-  ### 📫 Let's Connect!
-  
-  <p>
-    <a href="https://kevinwl.my.id" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00f2ff?style=for-the-badge" />
-    </a>
-    <a href="mailto:business@kevinwl.my.id">
-      <img src="https://img.shields.io/badge/✉️_Email_Me-white?style=for-the-badge" />
-    </a>
-  </p>
 
-  <br/>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=kevinwiliamleo-dev&color=00f2ff&style=flat-square&label=Profile+Views)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%"/>
+### 📫 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-00f2ff?style=for-the-badge)](https://kevinwl.my.id)
+[![Email](https://img.shields.io/badge/✉️_Email_Me-white?style=for-the-badge)](mailto:business@kevinwl.my.id)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kevinwiliamleo-dev&color=00f2ff&style=flat-square&label=Profile+Views)
+
+<br/>
+
+---
+
+**Built with 💙 by Kevin William Leo** | **[kevinwl.my.id](https://kevinwl.my.id)**
 
 </div>
